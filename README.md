@@ -1,4 +1,4 @@
-# Time-Series-Forcasting
+# Time-Series-Forecasting
 
 In this report, we will work with two datasets. The first one gives us the date
 of a property’s sale, the price, the property type (unit or house) and finally the number
